@@ -9,7 +9,7 @@ The main purpose is to practise scala, SparkSQL and MLlib, the result is not as 
 - for [mvnrepository: find library dependency](https://mvnrepository.com/artifact/org.apache.spark/spark-mllib-local_2.10/2.1.0)
 
 ### Useful command line:
-- aws cp s3a://bucket-name/file-name ./
+- aws s3 cp s3a://bucket-name/file-name ./
 - spark-submit spark-file.jar
 
 
